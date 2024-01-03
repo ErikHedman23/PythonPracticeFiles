@@ -20,7 +20,7 @@ N = int(input())
 sumation = sum(range(1, N + 1))
 print(sumation)
 
-#Another way to write this is:
+#Another way to write this using a math formula is:
 N = int(input())
 sumation = N * (N + 1) // 2  # Using integer division to ensure an integer result
 print(sumation)
